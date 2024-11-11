@@ -1,7 +1,7 @@
 # config.py
-JUMPHOST_IP = '125.22.249.129'
-JUMPHOST_PORT = 42705
-JUMPHOST_USERNAME = 'Ciscocen1'
-JUMPHOST_PASSWORD = 'MiPPW[q3cmPx)TE'
-ROUTER_USERNAME = 'nocsemsr'
-ROUTER_PASSWORD = 'India@1212'
+JUMPHOST_IP = 'jump_ip'
+JUMPHOST_PORT = 'port_number'
+JUMPHOST_USERNAME = 'jump_username'
+JUMPHOST_PASSWORD = 'jump_pass'
+ROUTER_USERNAME = 'router_username'
+ROUTER_PASSWORD = 'router_password'
